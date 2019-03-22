@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace DuAn1
 {
-    public partial class Form1 : Form
+    public partial class frm1 : Form
     {
-        public Form1()
+        public frm1()
         {
             InitializeComponent();
         }

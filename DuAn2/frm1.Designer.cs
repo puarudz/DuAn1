@@ -1,6 +1,6 @@
 ﻿namespace DuAn1
 {
-    partial class Form1
+    partial class frm1
     {
         /// <summary>
         /// Required designer variable.
